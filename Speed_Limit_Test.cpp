@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    float a,x,b,y;
 	    cin>>a>>x>>b>>y;
+		
 	    if(a/x>b/y){
 	        cout<<"Alice"<<endl;
 	    }
