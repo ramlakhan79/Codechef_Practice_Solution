@@ -9,6 +9,7 @@ int main(){
 		while(t--){
 		    int a,b;
 		    cin>>a>>b;
+			
 		    if(100-((100*a)/100) == 200-((200*b)/100)){
 		      cout<<"BOTH"<<endl;
 		    } 
