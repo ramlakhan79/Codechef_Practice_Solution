@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int x;
 	    cin>>x;
+		
 	    cout<<(x-10)<<endl;
 	}
 	return 0;
