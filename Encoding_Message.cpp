@@ -12,6 +12,7 @@ int main() {
 	    cin>>n;
 	    string s;
 	    cin>>s;
+		
         int temp;
         for(int i=0; i<(n/2)*2; i=i+2)
         {
