@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+  
+	int t;
+	cin>>t;
+	int count,temp;
+	while(t--){
+	    int h,x,y;
+	    count=1;
+	    cin>>h>>x>>y;
+	    temp=h-y;
+	    while(temp>0){
+	        temp=temp-x;
+	        count++;
+	    }
+	    cout<<count<<endl;
+	}
+
+	return 0;
+}
