@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int x,y;
 	    cin>>x>>y;
+		
 	    int ab,ba;
 	    
 	    ab=(500-x*2)+(1000-(x+y)*4);
