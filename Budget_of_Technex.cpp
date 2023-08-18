@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int r;
 	    cin>>r;
+		
 	    cout<<((r*1000)/2)/5<<endl;
 	}
 	return 0;
