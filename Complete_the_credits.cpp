@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int x;
 	    cin>>x;
+		
 	    if(x>65){
 	        cout<<"Overload"<<endl;
 	    }
