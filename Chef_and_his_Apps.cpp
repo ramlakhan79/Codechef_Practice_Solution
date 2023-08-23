@@ -11,6 +11,7 @@ int main() {
 	while(t--){
 	    int s,x,y,z;
 	    cin>>s>>x>>y>>z;
+		
 	    if(s<(x+y+z)){
 	       if(s>=y+z || s>=x+z){
 	           cout<<"1"<<endl;
