@@ -12,6 +12,7 @@ int main() {
 	while(t--){
 	    int x;
 	    cin>>x;
+		
 	    if(x%10==0  || x%5==0){
 	        if(x%10!=0 && x%5==0){
 	            cout<<((x/10)+1)<<endl;
