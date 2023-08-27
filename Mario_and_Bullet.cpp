@@ -12,6 +12,7 @@ int main() {
 	while(t--){
 	    int x,y,z;
 	    cin>>x>>y>>z;
+		
 	    if(y%x==0 && z>y/x){
 	        cout<<z-(y/x)<<endl;
 	    }
