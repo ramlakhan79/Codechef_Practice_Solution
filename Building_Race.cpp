@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    double a,b,x,y;
 	    cin>>a>>b>>x>>y;
+		
 	    if(a/(x*1)>b/(y*1)){
 	        cout<<"Chefina"<<endl;
 	    }
