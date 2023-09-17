@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int x,y,k,n;
 	    cin>>n>>k>>x>>y;
+		
 	    if(x>y && n>k){
 	        cout<<k*x+(n-k)*y<<endl;
 	    }
