@@ -11,6 +11,7 @@ int main() {
 	    cin>>n>>b;
 	    
 	    int w[n],h[n],p[n],temp[n];
+		
 	    for(int i=0;i<n;i++){
 	        cin>>w[i]>>h[i]>>p[i];
 	    }
