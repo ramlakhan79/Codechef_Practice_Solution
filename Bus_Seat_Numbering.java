@@ -13,6 +13,7 @@ class Codechef
 		Scanner sc = new Scanner(System.in);
 		int t,n;
 		t=sc.nextInt();
+		
 		while(t>0){
 		    n=sc.nextInt();
 		    int deck=30;
