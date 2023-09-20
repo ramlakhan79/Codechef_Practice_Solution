@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int n;
 	    cin>>n;
+		
 	    int arr[2*n];
 	    int temp=0;
 	    for(int i=0;i<2*n;i++){
