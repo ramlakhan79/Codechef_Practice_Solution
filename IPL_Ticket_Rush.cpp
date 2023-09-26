@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int n,m;
 	    cin>>n>>m;
+		
 	    if(n>m){
 	        cout<<n-m<<endl;
 	    }
