@@ -6,6 +6,7 @@ int main() {
 	int t;
 	cin>>t;
 	while(t--){
+		
 	    double a,b,x,y;
 	    cin>>a>>b>>x>>y;
 		
