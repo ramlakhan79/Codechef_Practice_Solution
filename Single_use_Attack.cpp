@@ -9,6 +9,7 @@ int main() {
 	{
 	    int h,x,y;
 	    std::cin >> h>>x>>y;
+		
 	    int attack=0;
 	    h=h-y;
 	    attack++;
