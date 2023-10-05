@@ -7,6 +7,7 @@ int main()
 {
 	ll T;
 	cin>>T;
+	
 	while(T--)
 	{
 	    ll a,b,c=0;
