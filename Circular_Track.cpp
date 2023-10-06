@@ -5,6 +5,7 @@ int main() {
 	// your code goes here
 	int t;
 	cin>>t;
+	
 	while(t--){
 	    int m,a,b;
 	    cin>>m>>a>>b;
