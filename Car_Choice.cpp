@@ -10,6 +10,7 @@ int main() {
 	    cin>>x1>>x2>>y1>>y2;
 	    float car1=x1/y1;
 	    float car2=x2/y2;
+		
 	    if(car1>car2){
 	        cout<<-1<<endl;
 	    }
