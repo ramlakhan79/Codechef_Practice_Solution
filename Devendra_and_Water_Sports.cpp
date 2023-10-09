@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int z,y,a,b,c;
 	    cin>>z>>y>>a>>b>>c;
+		
 	    if((z-y)>=(a+b+c)){
 	        cout<<"YES"<<endl;
 	    }
