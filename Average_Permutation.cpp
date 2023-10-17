@@ -8,6 +8,7 @@ int main() {
         int n;
         cin >> n;
         vector<int> v;
+        
         v.push_back(n - 1);
         v.push_back(n - 2);
         
