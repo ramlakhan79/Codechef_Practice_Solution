@@ -16,6 +16,7 @@ int main() {
 	        cin>>w[i]>>h[i]>>p[i];
 	    }
 	    int ans=0,res;
+		
 	    for(int i=0;i<n;i++){
 	        if(b>=p[i]){
 	            temp[i]=w[i]*h[i];
