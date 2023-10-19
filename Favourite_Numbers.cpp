@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int a;
 	    cin>>a;
+		
 	    if(a%2==0 && a%7==0){
 	        cout<<"Alice"<<endl;
 	    }
