@@ -16,6 +16,7 @@ class Codechef
 		
 		while(t>0){
 		    n=sc.nextInt();
+			
 		    int deck=30;
 		    int lower_deck=15,upper_deck=30;
 		    int lower_double=10,lower_single=15;
