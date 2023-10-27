@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int n,a;
 	    cin>>n>>a;
+		
 	    if((n-a)<a)
 	        cout<<(n-a)<<endl;
 	    else
