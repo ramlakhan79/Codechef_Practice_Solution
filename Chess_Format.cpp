@@ -2,6 +2,7 @@
 using namespace std;
 
 int display(int x,int y){
+	
     if((x+y)<3)
         return 1;
     else if(3<=(x+y) && (x+y)<=10)        
