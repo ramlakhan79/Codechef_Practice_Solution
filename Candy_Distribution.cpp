@@ -18,6 +18,7 @@ int main() {
 	    if((n/m)%2==0 && n%m==0){
 	        cout<<"Yes"<<endl;
 	    }
+		    
 	    else{
 	        cout<<"No"<<endl;
 	    }
