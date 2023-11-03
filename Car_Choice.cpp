@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    float x1,x2,y1,y2;
 	    cin>>x1>>x2>>y1>>y2;
+		
 	    float car1=x1/y1;
 	    float car2=x2/y2;
 		
