@@ -18,6 +18,7 @@ int main() {
 	    int sx,sy,ex,ey;
 		
 	    cin>>sx>>sy>>ex>>ey;
+		
 	    if(sx!=ex && sy!=ey){
 	        cout<<1<<endl;
 	    }
