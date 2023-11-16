@@ -10,6 +10,7 @@ int main() {
 	    cin>>N;
 	    int A[N];
 	    map<int,int>m;
+		
 	    for (int i=0; i<N; i++)
 	    {
 	        cin>>A[i];
