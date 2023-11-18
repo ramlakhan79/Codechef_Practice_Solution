@@ -24,6 +24,7 @@ int main() {
 	        {
 	            Bob-=i;
 	            if(Bob<0){
+			    
 	                cout<<"Limak"<<endl;
 	                break;
 	            }
