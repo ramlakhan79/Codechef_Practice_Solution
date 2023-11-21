@@ -6,6 +6,7 @@ int main() {
 	int t;
 	cin>>t;
 	while(t--){
+		
 	    int r,g,b,k;
 	    cin>>r>>g>>b>>k;
 	    int r_b=0,g_b=0,b_b=0;
