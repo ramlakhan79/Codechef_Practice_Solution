@@ -10,6 +10,7 @@ int main() {
 	    cin>>x;
 	    int amt;
 	    amt=x%10;
+		
 	    if(amt>=5){
 	        cout<<100-(x/10+1)*10<<endl;
 	    }
