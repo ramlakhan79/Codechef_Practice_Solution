@@ -8,6 +8,8 @@ int main() {
 	while(t--){
 	    int x,y;
 	    cin>>x>>y;
+
+		
 	    if(y>x)
 	    cout<<(x+(y-x)*2)<<endl;
 	    else
