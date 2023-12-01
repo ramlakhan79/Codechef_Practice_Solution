@@ -5,6 +5,7 @@ int main() {
 	// your code goes here
 	int t;
 	cin>>t;
+	
 	while(t--){
 	    float x1,x2,y1,y2;
 	    cin>>x1>>x2>>y1>>y2;
