@@ -17,6 +17,7 @@ int main() {
 	    int l,r;
 	    cin>>l>>r;
 	    int count=0;
+		
 	    for(int i=l;i<=r;i++){
 	        if(checkDigit(i))
 	            count++;
