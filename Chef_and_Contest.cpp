@@ -8,6 +8,7 @@ int main() {
 	while(t--){
 	    int x,y,p,q;
 	    cin>>x>>y>>p>>q;
+		
 	    if((x+p*10)<(y+q*10)){
 	        cout<<"Chef"<<endl;
 	    }
