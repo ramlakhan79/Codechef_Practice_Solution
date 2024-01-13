@@ -12,6 +12,7 @@ int main() {
 	        cin >>a[i];
 	        b[a[i]-1]=i+1;
 	    }
+		
 	    bool flag = false;
 	    for(int i=0; i<n; i++){
 	        if(a[i] != b[i]){
