@@ -7,8 +7,7 @@ int main() {
 	cin>>ch;
 	
 	if(ch=='A' || ch=='E' || ch=='I' || ch=='O' || ch=='U')
-	    cout<<"Vowel"<<endl;
-		
+	    cout<<"Vowel"<<endl;		
 	else
 	    cout<<"Consonant"<<endl;
 	return 0;
