@@ -11,10 +11,9 @@ last submission z2  months ago. Determine whether he will get the visa.
 
 #include <iostream>
 using namespace std;
-
 int main() {
-	// your code goes here
-	int t;
+    // your code goes here
+    int t;
     cin>>t;
     while(t--){
         int x1,x2,y1,y2,z1,z2;
