@@ -17,7 +17,6 @@ int main() {
                 ch=s[i];
                 i+=1;
                 res++;
-                cnt++;
             }
             else if(ch==s[i]){
                 continue;
