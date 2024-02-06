@@ -10,7 +10,7 @@ int main() {
 	    cin>>x>>y;
 	    if(y==0)
 	        cout<<x<<endl;
-        else if(x==y)	        
+           else if(x==y)	        
 	        cout<<(y*2-1)<<endl;
 	    else
 	        cout<<((x-y)+y*2)<<endl;
