@@ -13,8 +13,7 @@ int main() {
 	    else if((x!=a && x!=b) || (y!=a && y!=b))
 	        cout<<1<<endl;
 	    else 
-	        cout<<0<<endl;
-	    
+	        cout<<0<<endl;	    
 	}
 	return 0;
 }
