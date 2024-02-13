@@ -18,8 +18,7 @@ int main() {
 	        else{
 	            odd_no++;
 	        }
-	    }
-	   
+	    }	   
 	    
 	    if(odd_no%2==0 || n==1)
 	        cout<<1<<endl;
