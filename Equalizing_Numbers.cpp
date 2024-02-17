@@ -5,7 +5,8 @@ int main() {
 	// your code goes here
 	int t;
 	cin>>t;
-	while(t--){
+	while(t--)
+	{
 	    int a,b;
 	    cin>>a>>b;
 	    if((a+b)%2==0){
