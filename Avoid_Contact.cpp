@@ -7,8 +7,7 @@ int main() {
 	cin>>t;
 	while(t--){
 	    int x,y;
-	    cin>>x>>y;
-		
+	    cin>>x>>y;		
 	    if(y==0)
 	        cout<<x<<endl;
            else if(x==y)	        
