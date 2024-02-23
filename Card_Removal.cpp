@@ -14,7 +14,7 @@ int main() {
 	    for (int i=0; i<N; i++)
 	    {
 	        cin>>A[i];
-	        m[A[i]]++;    //counting the frequency for each distinct element
+	        m[A[i]]++;   
 	    }
 	    
 	    int freq=0;
