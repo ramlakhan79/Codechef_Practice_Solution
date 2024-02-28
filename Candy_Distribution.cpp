@@ -10,8 +10,7 @@ int main() {
 	// your code goes here
 	int t;
 	cin>>t;
-	while(t--){
-		
+	while(t--){		
 	    int n,m;
 	    cin>>n>>m;
 		
