@@ -24,13 +24,11 @@ int main() {
         int ans,res;
         for(int i=0; i<n; i++)
         {
-            ans=(int)s[i];
-            
+            ans=(int)s[i];            
             res=(122-ans)+97;
             s[i]=(char)res;
         }
         cout<<s<<endl;
-	}
-	
+	}	
 	return 0;
 }
