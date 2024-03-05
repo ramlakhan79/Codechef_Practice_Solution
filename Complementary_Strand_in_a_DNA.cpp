@@ -12,8 +12,7 @@ int main() {
 	cin>>t;
 	while(t--){
 	    int n;
-	    cin>>n;
-		
+	    cin>>n;		
 	    char s[n],arr[n];
 	    for(int i=0;i<n;i++){
 	        cin>>s[i];
