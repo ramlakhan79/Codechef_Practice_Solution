@@ -8,8 +8,7 @@ int main() {
 	while(t--){
 	    int n;
 	    cin>>n;
-	    int res=0,k=1;
-		
+	    int res=0,k=1;		
 	    while(n>0){
 	        if(n>=k){
 	            res++;
