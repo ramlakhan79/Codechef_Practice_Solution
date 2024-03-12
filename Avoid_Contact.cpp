@@ -15,5 +15,6 @@ int main() {
 	    else
 	        cout<<((x-y)+y*2)<<endl;
 	}
+	return 0;
 
 }
