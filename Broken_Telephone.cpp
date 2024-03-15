@@ -15,8 +15,7 @@ int main()
         {
             cin >> a[i];
         }
-        int count = 0;
-        
+        int count = 0;        
         for (int i = 0; i < n; i++)
         {
             if (i > 0 && i < n - 1)
