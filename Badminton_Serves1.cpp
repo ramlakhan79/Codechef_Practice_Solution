@@ -12,7 +12,6 @@ Please see the sample cases below for explained examples.
 
 #include <iostream>
 using namespace std;
-
 int main() {
 	// your code goes here
 	int t;
