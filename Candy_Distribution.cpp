@@ -12,8 +12,7 @@ int main() {
 	cin>>t;
 	while(t--){		
 	    int n,m;
-	    cin>>n>>m;
-		
+	    cin>>n>>m;		
 	    if((n/m)%2==0 && n%m==0){
 	        cout<<"Yes"<<endl;
 	    }
