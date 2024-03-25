@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int digitSum(int x){
     int sum=0;        
     while(x>0){
