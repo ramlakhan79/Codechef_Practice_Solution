@@ -20,8 +20,7 @@ int main() {
 	                break;
 	            }
 	        }
-	        else
-	        {
+	        else{
 	            Bob-=i;
 	            if(Bob<0){
 			    
