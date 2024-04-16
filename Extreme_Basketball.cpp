@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 #define cn(a,b) cin>>a>>b;
 using namespace std;
-
-
 int main() {
 	// your code goes here
 	int t;
