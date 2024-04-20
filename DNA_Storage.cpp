@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
 	// your code goes here
 	int t;
@@ -24,8 +23,7 @@ int main() {
 	            ch=ch+'G';	            
 	        }
 	    }
-	    cout<<ch<<endl;
-	    
+	    cout<<ch<<endl;	    
 	}
 	return 0;
 }
