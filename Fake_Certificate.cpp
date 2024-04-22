@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 #define cn(n) cin>>n;
 #define ct(x) cout<<x;
 
@@ -30,5 +31,7 @@ int main() {
         }
         ct(max1);
         cout<<endl;
+
+	return 0;
     }
 }
