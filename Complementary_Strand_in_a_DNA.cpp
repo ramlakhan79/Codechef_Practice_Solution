@@ -16,8 +16,7 @@ int main() {
 	    char s[n],arr[n];
 	    for(int i=0;i<n;i++){
 	        cin>>s[i];
-	    }
-		
+	    }		
 	    for(int i=0;i<n;i++){
 	        if(s[i]=='A')
 	        arr[i]='T';
