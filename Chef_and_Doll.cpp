@@ -16,8 +16,7 @@ int main() {
 	    for(int i=1;i<n;i++){
 	        ans^=doll[i];
 	    }
-	    cout<<ans<<endl;
-	    
+	    cout<<ans<<endl;	    
 	}
 	
 	return 0;
