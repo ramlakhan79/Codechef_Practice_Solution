@@ -17,8 +17,7 @@ int main() {
 	        ans^=doll[i];
 	    }
 	    cout<<ans<<endl;	    
-	}
-	
+	}	
 	return 0;
 
 }
