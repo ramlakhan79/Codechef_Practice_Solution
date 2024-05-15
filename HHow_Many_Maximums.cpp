@@ -20,8 +20,10 @@ int main() {
 	            k=true;
 	        }
 	    }
-	    if(k) cout<<one+1<<endl;
-	    else cout<<one<<endl;
+	    if(k)
+	    	cout<<one+1<<endl;
+	    else 
+	    	cout<<one<<endl;
 	}
 
 }
