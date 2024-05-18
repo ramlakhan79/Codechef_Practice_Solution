@@ -7,8 +7,7 @@ int main() {
 	cin>>t;
 	while(t--){
 	    float x,y,xr,yr,d;
-	    cin>>x>>y>>xr>>yr>>d;
-		
+	    cin>>x>>y>>xr>>yr>>d;		
 	    if(min((x/xr),(y/yr))>=d){
 	        cout<<"YES"<<endl;
 	    }
