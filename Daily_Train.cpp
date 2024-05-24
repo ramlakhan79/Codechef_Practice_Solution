@@ -38,5 +38,7 @@ int main() {
 	            ans+=mp[cnt]/(mp[x]*mp[cnt-x]);
 	        }
 	    }
+	    cout<<ans<<endl;
 	}
-	cout<<ans<<endl;
+	return 0;
+}
