@@ -8,8 +8,7 @@ int main() {
 	while(t--){
 	    float m,h;
 	    cin>>m>>h;
-	    float bmi=(m)/(h*h);
-		
+	    float bmi=(m)/(h*h);		
 	    if(bmi<=18)
 	        cout<<1<<endl;
 	    else if(bmi>18 && bmi<=24)     
