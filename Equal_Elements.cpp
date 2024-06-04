@@ -23,4 +23,5 @@ int main() {
         }
         cout<<n-max<<endl;
     }
+	return 0;
 }
