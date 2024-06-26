@@ -16,7 +16,6 @@ int main() {
 	        cin>>A[i];
 	        m[A[i]]++;   
 	    }
-	    
 	    int freq=0;
 	    for(int i=0; i<N; i++)
 	    {
