@@ -1,11 +1,17 @@
 // Extreme Basketball
 
 #include <bits/stdc++.h>
+#include <iostream>
+#define cn(n) cin>>n
+#define printY() cout<<"YES"
+#define printN() cout<<"NO"
+#define nextL() cout<<endl;
 #define cn(a,b) cin>>a>>b;
+
 using namespace std;
 int main() {
 	// your code goes here
-	int t;
+    int t;
     cin>>t;
     while(t--){
         int A, B;
