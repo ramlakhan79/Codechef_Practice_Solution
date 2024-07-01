@@ -1,4 +1,6 @@
 #include <iostream>
+#include <conio.h>
+#define ll long long
 using namespace std;
 
 int digitSum(int x){
