@@ -1,4 +1,7 @@
 #include <bits/stdc++.h>
+#include <iostream>
+#define cn(n) cin>>n 
+
 using namespace std;
 
 int main() {
